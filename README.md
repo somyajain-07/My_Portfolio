@@ -1,9 +1,5 @@
 # 👩‍💻 Somya Jain
 
-<p align="center">
-  <img src="./profile.jpeg" width="170" height="170" style="border-radius:50%;" alt="Somya Jain">
-</p>
-
 <h3 align="center">
   CSE (AI & ML) Student | Aspiring Software Developer
 </h3>
